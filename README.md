@@ -31,6 +31,6 @@ Summary of Findings | Eliza / Ashley
 Editing & Compilation | All
 
 ## Project Difficulties
-
+We faced several difficulties throughout the project. First and foremost, the data we were given was messy and required many transformations to obtain our final dataset and our target variable. Second, there was no data given from before the treatment period when the MyCoke360 ordering platform was implemented so it was impossible for us to determine the impact of the new ordering platform on cart abandonment. Finally, we lost some data to missing information: 75 rows to missing anchor dates and about 23,000 rows to missing other critical information that we needed to calculate order windows and cart abandonment. Fortunately, we were still left with over 3.6 million rows of data which was plenty to analyze customer behavior surrounding cart abandonment. Overall, this project gave us valuable experience with handling real-world, non-ideal data conditions. 
 
 ## Conclusion
